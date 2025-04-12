@@ -32,7 +32,11 @@ age: the age of the individual
 gender: the gender of the individual
 
 small_business_ownership: a binary variable indicating whether the individual owns a small business
+
 entrepreneurship: a binary variable indicating whether the individual is an entrepreneur
+
 access_to_electricity: a binary variable indicating whether the individual has access to electricity
+
 internet_access: a binary variable indicating whether the individual has access to the internet
+
 mobile_phone_usage: a binary variable indicating whether the individual uses a mobile phone
