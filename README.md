@@ -43,6 +43,9 @@ mobile_phone_usage: a binary variable indicating whether the individual uses a m
 
 
 
+
+
+
 Questions we want to answer:
 
 1) What is the distribution of bank account ownership like across different states / territories? Are there any correlations with education level, urbanization rates, etc.?
