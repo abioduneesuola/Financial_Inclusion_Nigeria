@@ -3,7 +3,9 @@ Understanding financial inclusion metrics and potentials through data exploratio
 
 Column info:
 state or territory: the state or territory where the data was collected
+
 urbanization_rate: the percentage of the population living in urban areas
+
 education_level: the level of education achieved by the individual (e.g. high school, college, etc.)
 bank_account_ownership: a binary variable indicating whether the individual has a bank account
 labor_force_demographics: demographic information about the labor force, such as age, gender, and education level
