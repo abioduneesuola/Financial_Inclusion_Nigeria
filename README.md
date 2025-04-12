@@ -40,3 +40,17 @@ access_to_electricity: a binary variable indicating whether the individual has a
 internet_access: a binary variable indicating whether the individual has access to the internet
 
 mobile_phone_usage: a binary variable indicating whether the individual uses a mobile phone
+
+
+
+Questions we want to answer:
+
+1) What is the distribution of bank account ownership like across different states / territories? Are there any correlations with education level, urbanization rates, etc.?
+2) Are there any significant rural - urban divides in terms of financial inclusion?
+3) Are there any interesting correlations between labor force demographics and financial inclusion across states / territories?
+4) What relationship exists between financial inclusion metrics (account ownership, saving and borrowing behavior, credit access, digital payment adoption, mobile money usage, etc.)
+5) Which demographic factors (e.g. age, gender, education, etc.) are the strongest predictors of financial inclusion? (TBD: not sure how much individual-level data exists to answer this.)
+6) How do savings and borrowing behaviors differ across income groups, education levels, and states / territories? Across communities?
+7) Are there any correlations between financial inclusion / economic opportunity and urban trends (e.g. digital payment incentives, gentrification)?
+8) Are there any interesting relationships between infrastructure (e.g. access to electricity, internet access, use of mobile phones) and financial inclusion?
+9) What relationships exist between access to credit, credit usage, etc. and small business ownership and entrepreneurship?
