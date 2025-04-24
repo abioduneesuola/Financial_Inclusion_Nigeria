@@ -1,6 +1,8 @@
 # Financial_Inclusion_Nigeria
 Understanding financial inclusion metrics and potentials through data exploration.
 
+## Through this project, we’re looking to explore international economic opportunity data and insights to better understand opportunities to leverage publicly available data to support local decision-making and impact. I have chosen the Nigerian dataset to work with.
+
 ### In this project, the main work will be about consolidating the columns in the dataset into a more compact structure. We will then feed this compact structure into the function that'll give us different visualizations to explore the data and extract the stories hidden in the data. I have defined a list of columns that we need to create based on the data at hand. The list is as follows:
 
 Here is the detailed description for each column based on the provided example:
