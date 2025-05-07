@@ -155,4 +155,4 @@ Which demographic factors (`demographic_factors`) are the strongest predictors o
 
 ---
 
-### *I'd like to say that this phase is not fully completed yet (there are still missing values in the consolidated dataset). This is a representation of what the final workflow will eventually look like (I just don't have the time to dig all in on it yet).
+### *I'd like to say that this phase is not fully completed yet (there are still missing values in the consolidated dataset). This is a representation of what the final workflow will eventually look like (I just don't have the time to dig all in on it yet).*
