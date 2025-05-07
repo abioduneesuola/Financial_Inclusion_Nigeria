@@ -6,7 +6,6 @@ Understanding financial inclusion metrics and potentials through data exploratio
 
 ### *In this project, the main work will be about consolidating the columns in the dataset into a more compact structure. We will then feed this compact structure into the function that'll give us different visualizations to explore the data and extract the stories hidden in the data. I have defined a list of columns that we need to create based on the data at hand. The list is as follows:*
 
-Here is the detailed description for each column based on the provided example:
 
 ---
 
@@ -155,3 +154,5 @@ What relationships exist between various financial inclusion metrics, such as ba
 Which demographic factors (`demographic_factors`) are the strongest predictors of financial inclusion, as measured by `bank_account_ownership` and `financial_inclusion_metrics`? How do age, gender, education level, and employment status influence financial inclusion?
 
 ---
+
+### *I'd like to say that this phase is not fully completed yet (there are still missing values in the consolidated dataset). This is a representation of what the final workflow will eventually look like (I just don't have the time to dig all in on it yet).
